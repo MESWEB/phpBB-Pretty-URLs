@@ -3,11 +3,11 @@
 
 Author details:
 
-Name: Sam Thompson
+Name: MESSIAH
 
-Email: sam@emberlabs.org
+Email: messiah@os.pl
 
-WWW: http://emberlabs.org/
+WWW: http://errors.win/
     
 Modification description: Make your phpBB forum's URLs pretty!
 
