@@ -18,6 +18,8 @@ if (!defined('PHPBB_USE_BOARD_URL_PATH'))
 	define('PHPBB_USE_BOARD_URL_PATH', true);
 }
 
+$request->enable_super_globals();
+
 if (strpos($_SERVER['REQUEST_URI'], '?') !== false)
 {
 	parse_str(substr(strpos($_SERVER['REQUEST_URI'], '?'), $_SERVER['REQUEST_URI']), $query);
